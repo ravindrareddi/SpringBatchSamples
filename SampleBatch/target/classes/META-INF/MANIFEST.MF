@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SampleBatch
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: RavindraReddy
+Implementation-Vendor-Id: com.gm.onstar
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SampleBatch
+Created-By: Maven Integration for Eclipse
+
